@@ -1,0 +1,6 @@
+[
+  {
+    "label": "Example task",
+    "command": "write-host 'sylvie233'",
+  },
+]

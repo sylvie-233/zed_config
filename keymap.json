@@ -17,6 +17,7 @@
     "context": "vim_mode == normal",
     "bindings": {
       "space e": "workspace::ToggleLeftDock",
+      "space t": "terminal_panel::Toggle",
       "shift-l": "pane::ActivateNextItem",
       "shift-h": "pane::ActivatePreviousItem",
       "space w": "pane::CloseActiveItem",
